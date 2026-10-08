@@ -1,0 +1,2 @@
+# BOK-SHOP-BOT
+BOK SHOP Discord Bot
